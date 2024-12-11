@@ -1,6 +1,6 @@
 As a cloud architect, it's essential to have a comprehensive understanding of a wide range of AWS services. Here is a list of key AWS services that you should learn:
 
-### Core Services
+### Core Service
 
 1. **Amazon EC2 (Elastic Compute Cloud)**: Virtual servers in the cloud.
 2. **Amazon S3 (Simple Storage Service)**: Scalable object storage.
